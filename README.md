@@ -18,6 +18,7 @@ I have learned that web accessibility is an important consideration for business
 
 It is also best practice for every web developer to take the appropriate steps to ensure that everybody, including people with disabilities, can access their website. 
 
+
 ## Installation
 
 N/A
@@ -30,6 +31,8 @@ Each section of this webpage has been adapted to meet accessibility requirements
 ![Screenshot of the web page](./assets/images/screenshot.png)
 
 ![Screenshot of the readability of the source code](./assets/images/screenshot1.png)
+
+Deployed website: https://ginacamelia.github.io/refactor-html-code/
 
 ## Credits
 
