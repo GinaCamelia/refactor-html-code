@@ -82,6 +82,10 @@ p {
     color: #ffffff;
 }
 
+.services img {
+    max-height: 200px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,16 +96,12 @@ p {
     margin-left: 25px;
 }
 
-.services img {
-    max-height: 200px;
-}
-
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*  Aside section  */
+/*  ASIDE Section  */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -130,7 +130,7 @@ aside {
 }
 
 
-/* Footer */
+/* FOOTER section */
 footer {
     padding: 30px;
     clear: both;
